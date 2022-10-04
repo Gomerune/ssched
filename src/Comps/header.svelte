@@ -47,7 +47,7 @@
         display: flex;
         flex-direction: row;
         align-items: center;
-        background-color: #bea5f5;
+        background-color: #10D15E;
         flex-wrap: nowrap;
         align-content: center;
         justify-content: space-around;
@@ -55,7 +55,7 @@
         margin-top: 10px;
         margin-bottom: 25px;
         box-shadow: 1px 2px 6px 0px #5a3c3c;
-        border-radius: 5px;
+        border-radius: 25px;
     }
 
     .date,
@@ -73,7 +73,7 @@
 
     .kv-burger {
         width: 50px;
-        text-align: center;
+        text-align: start;
         color: #fff;
         cursor: pointer;
     }
